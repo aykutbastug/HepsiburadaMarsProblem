@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aykut\\source\\repos\\HepsiburadaMarsProblem\\HepsiburadaMarsProblem.csproj",
+      "projectUniqueName": "C:\\GitHub\\aykutbastug\\HepsiburadaMarsProblem\\HepsiburadaMarsProblem\\HepsiburadaMarsProblem.csproj",
       "projectName": "HepsiburadaMarsProblem",
-      "projectPath": "C:\\Users\\aykut\\source\\repos\\HepsiburadaMarsProblem\\HepsiburadaMarsProblem.csproj",
+      "projectPath": "C:\\GitHub\\aykutbastug\\HepsiburadaMarsProblem\\HepsiburadaMarsProblem\\HepsiburadaMarsProblem.csproj",
       "packagesPath": "C:\\Users\\aykut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aykut\\source\\repos\\HepsiburadaMarsProblem\\obj\\",
+      "outputPath": "C:\\GitHub\\aykutbastug\\HepsiburadaMarsProblem\\HepsiburadaMarsProblem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
