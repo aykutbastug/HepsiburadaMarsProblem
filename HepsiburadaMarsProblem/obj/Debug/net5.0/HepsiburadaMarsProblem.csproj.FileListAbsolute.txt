@@ -1,0 +1,16 @@
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\net5.0\HepsiburadaMarsProblem.exe
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\net5.0\HepsiburadaMarsProblem.deps.json
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\net5.0\HepsiburadaMarsProblem.runtimeconfig.json
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\net5.0\HepsiburadaMarsProblem.runtimeconfig.dev.json
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\net5.0\HepsiburadaMarsProblem.dll
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\net5.0\ref\HepsiburadaMarsProblem.dll
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\net5.0\HepsiburadaMarsProblem.pdb
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\net5.0\HepsiburadaMarsProblem.csproj.AssemblyReference.cache
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\net5.0\HepsiburadaMarsProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\net5.0\HepsiburadaMarsProblem.AssemblyInfoInputs.cache
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\net5.0\HepsiburadaMarsProblem.AssemblyInfo.cs
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\net5.0\HepsiburadaMarsProblem.csproj.CoreCompileInputs.cache
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\net5.0\HepsiburadaMarsProblem.dll
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\net5.0\ref\HepsiburadaMarsProblem.dll
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\net5.0\HepsiburadaMarsProblem.pdb
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\net5.0\HepsiburadaMarsProblem.genruntimeconfig.cache

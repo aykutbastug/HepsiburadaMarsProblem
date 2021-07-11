@@ -1,0 +1,13 @@
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\netcoreapp3.1\HepsiburadaMarsProblem.exe
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\netcoreapp3.1\HepsiburadaMarsProblem.deps.json
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\netcoreapp3.1\HepsiburadaMarsProblem.runtimeconfig.json
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\netcoreapp3.1\HepsiburadaMarsProblem.runtimeconfig.dev.json
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\netcoreapp3.1\HepsiburadaMarsProblem.dll
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\bin\Debug\netcoreapp3.1\HepsiburadaMarsProblem.pdb
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\netcoreapp3.1\HepsiburadaMarsProblem.csproj.AssemblyReference.cache
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\netcoreapp3.1\HepsiburadaMarsProblem.AssemblyInfoInputs.cache
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\netcoreapp3.1\HepsiburadaMarsProblem.AssemblyInfo.cs
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\netcoreapp3.1\HepsiburadaMarsProblem.csproj.CoreCompileInputs.cache
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\netcoreapp3.1\HepsiburadaMarsProblem.dll
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\netcoreapp3.1\HepsiburadaMarsProblem.pdb
+C:\Users\aykut\source\repos\HepsiburadaMarsProblem\obj\Debug\netcoreapp3.1\HepsiburadaMarsProblem.genruntimeconfig.cache
